@@ -1,0 +1,12 @@
+.student {
+	display: block;
+	padding: 1px 16px;
+	background-color: #fff;
+	margin: 20px 10px;
+	border-left: 8px solid #fff;
+	/* margin-block-start: 0;
+  margin-block-end: 0; */
+}
+.student:hover {
+	border-left: 8px solid #cf2f2f;
+}
